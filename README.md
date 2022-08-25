@@ -1,2 +1,1 @@
-My first readme
-Second Line Updated manually from Git Hub
+My first readme // Second Line Updated manually from Git Hub
